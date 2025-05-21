@@ -2,7 +2,7 @@
 
 A simple and engaging ball-dodging game developed using QT framework. The player must avoid getting hit by moving balls while the game keeps track of the score and progress.
 
-![QT Balls Game Screenshot](./img/juego-bolas.png)
+![QT Balls Game Screenshot](./img/juego-bolass.png)
 
 ---
 
