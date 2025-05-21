@@ -1,6 +1,7 @@
 # 🎮 QT Balls Game
 
-A simple and engaging ball-dodging game developed using QT framework. The player must avoid getting hit by moving balls while the game keeps track of the score and progress.
+Dodgeball game developed with Qt and C++.
+A simple yet challenging game where the player must dodge moving balls for as long as possible. Screens were built using Qt Designer, and the game features collision logic, smooth motion, and survival time tracking.
 
 ![QT Balls Game Screenshot](./img/juego-bolass.png)
 
